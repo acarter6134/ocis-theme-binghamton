@@ -1,0 +1,31 @@
+{
+  "default": {
+    "general": {
+      "name": "BingBox",
+      "slogan": "BingBox – We're gonna replace Google Drive"
+    },
+    "logo": {},
+    "loginPage": {},
+    "designTokens": {
+      "colorPalette": {
+        "background-highlight": "#edfaf3",
+        "input-border": "#ceeee6",
+        "input-text-default": "#005a43",
+        "input-text-muted": "#6aa898",
+        "swatch-brand-default": "#005a43",
+        "swatch-brand-hover": "#087258",
+        "swatch-passive-default": "#79a69b",
+        "swatch-passive-hover": "#94b3ab",
+        "swatch-passive-muted": "#0b7a5e",
+        "swatch-primary-default": "#04f1b6",
+        "swatch-primary-hover": "#97bfb5",
+        "swatch-primary-muted": "#01e4ac",
+        "swatch-primary-gradient": "#3bdeb5",
+        "text-default": "#005a43",
+        "text-muted": "#6aa898"
+      }
+    }
+  },
+  "alternative": {},
+  "dark": {}
+}
